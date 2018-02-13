@@ -1,4 +1,4 @@
-package com.wang.io;
+package com.wang.io.ObjectIO;
 
 import java.io.*;
 import java.net.URL;
