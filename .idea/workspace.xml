@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b464b6-f7c4-4d23-8681-4283353e1f81" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/SqlQuery.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/io/BinaryFileIO/BFileIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/io/CharFileIO/CFileIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/io/ObjectIO/ObjectIO$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/io/ObjectIO/ObjectIO$Obj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/io/ObjectIO/ObjectIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JAVA/com/wang/properties/PropertiesOperator.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVA.iml" afterPath="$PROJECT_DIR$/JAVA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" afterPath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,43 +20,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mysql.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="-567">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1518788578039" expanded="true" signature="790:803" ph="select * fro... " />
-                <marker date="1518788578039" expanded="true" signature="790:811" ph="select * fro... student" />
-                <marker date="1518788578039" expanded="true" signature="1253:1279" ph="delete from " />
-                <marker date="1518788578039" expanded="true" signature="1253:1291" ph="delete from " />
-                <marker date="1518788578039" expanded="true" signature="1253:1292" ph="delete from " />
-                <marker date="1518788578039" expanded="true" signature="1374:1408" ph="select * fro... student" />
-                <marker date="1518788578039" expanded="true" signature="2007:2043" ph="insert into student... " />
-                <marker date="1518788578039" expanded="true" signature="2078:2114" ph="insert into student... " />
-                <marker date="1518788578039" expanded="true" signature="2149:2185" ph="insert into student... " />
+                <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+                <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+                <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+                <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+                <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+                <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+                <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+                <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+                <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SqlQuery.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/SqlQuery.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -694,7 +663,7 @@
       <workItem from="1518609585966" duration="76000" />
       <workItem from="1518624450812" duration="3058000" />
       <workItem from="1518656795404" duration="14063000" />
-      <workItem from="1518782339898" duration="4815000" />
+      <workItem from="1518782339898" duration="5286000" />
     </task>
     <task id="LOCAL-00001" summary="添加对BFileIO的操作">
       <created>1518531266101</created>
@@ -721,7 +690,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36580000" />
+    <option name="totallyTimeSpent" value="37051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +714,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33447686" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4562607" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21028744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -873,15 +842,15 @@
           <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1518788578039" expanded="true" signature="790:803" ph="select * fro... " />
-            <marker date="1518788578039" expanded="true" signature="790:811" ph="select * fro... student" />
-            <marker date="1518788578039" expanded="true" signature="1253:1279" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1253:1291" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1253:1292" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1374:1408" ph="select * fro... student" />
-            <marker date="1518788578039" expanded="true" signature="2007:2043" ph="insert into student... " />
-            <marker date="1518788578039" expanded="true" signature="2078:2114" ph="insert into student... " />
-            <marker date="1518788578039" expanded="true" signature="2149:2185" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
           </folding>
         </state>
       </provider>
@@ -1026,14 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/SqlQuery.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1042,21 +1003,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="-567">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1518788578039" expanded="true" signature="790:803" ph="select * fro... " />
-            <marker date="1518788578039" expanded="true" signature="790:811" ph="select * fro... student" />
-            <marker date="1518788578039" expanded="true" signature="1253:1279" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1253:1291" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1253:1292" ph="delete from " />
-            <marker date="1518788578039" expanded="true" signature="1374:1408" ph="select * fro... student" />
-            <marker date="1518788578039" expanded="true" signature="2007:2043" ph="insert into student... " />
-            <marker date="1518788578039" expanded="true" signature="2078:2114" ph="insert into student... " />
-            <marker date="1518788578039" expanded="true" signature="2149:2185" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
           </folding>
         </state>
       </provider>

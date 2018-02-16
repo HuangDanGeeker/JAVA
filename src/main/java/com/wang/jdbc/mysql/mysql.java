@@ -14,6 +14,7 @@ public class mysql {
     public static void main(String[] args) {
         String dirver = "com.mysql.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/test";
+        //TODO change the 'user' and 'password' properties to fit your own mysql settings
         String user = "root";
         String password = "";
         Connection connection = null;
@@ -23,7 +24,7 @@ public class mysql {
             connection = DriverManager.getConnection(url, user, password);
             Statement statement = connection.createStatement();
             String sql = "select * from student";
-            // Statement
+            // 1.Statement
             resultSet = statement.executeQuery(sql);    //执行查询语句
             int id;
             String name;
@@ -35,7 +36,7 @@ public class mysql {
             }
             statement.execute("delete from student where name = 'wang'");  //执行updata insert delete
 
-            //preparedStatement
+            // 2.preparedStatement
             sql = "select * from student where id = ?";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, 1);
@@ -44,7 +45,7 @@ public class mysql {
             boolean executed = preparedStatement.execute();
             System.out.println("preparedStatement excuted : "+executed);
 
-            // transaction
+            // 3. transaction
             connection.setAutoCommit(false);  // stop auto commit
             // ** execute some sql operation
             statement.execute("insert into student values(22, '22')");
