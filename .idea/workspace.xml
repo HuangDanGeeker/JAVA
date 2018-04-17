@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b464b6-f7c4-4d23-8681-4283353e1f81" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/Thread/Demo$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/Thread/Demo$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/Thread/Demo$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/Thread/Demo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/Thread/Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/wang/jdbc/mysql/mysql.class" afterPath="$PROJECT_DIR$/target/classes/com/wang/jdbc/mysql/mysql.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" afterPath="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +25,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mysql.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/Thread/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="e#383#805#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+                <element signature="e#837#1473#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+                <element signature="e#1501#1930#0" expanded="true" />
+                <element signature="e#1929#1930#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
@@ -76,6 +98,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/SqlQuery.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wang/Thread/Demo.java" />
       </list>
     </option>
   </component>
@@ -98,10 +121,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -109,6 +130,9 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>General</id>
           </State>
           <State>
             <id>Manifest</id>
@@ -149,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -223,42 +248,8 @@
               <option name="myItemId" value="wang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JAVA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JAVA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdbc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysql" />
+              <option name="myItemId" value="Thread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,28 +281,15 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="wang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdbc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -337,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mysql">
+  <component name="RunManager" selected="Application.Demo">
     <configuration default="false" name="ObjectIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wang.io.ObjectIO.ObjectIO" />
       <option name="VM_PARAMETERS" />
@@ -366,20 +344,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CFileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wang.io.CharFileIO.CFileIO" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JAVA" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="Reflaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wang.reflaction.Reflaction" />
       <option name="VM_PARAMETERS" />
@@ -396,6 +360,20 @@
     </configuration>
     <configuration default="false" name="mysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wang.jdbc.mysql.mysql" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JAVA" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wang.Thread.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -600,6 +578,42 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="" />
       <envs />
@@ -621,20 +635,38 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.ObjectIO" />
       <item index="1" class="java.lang.String" itemvalue="Application.BFileIO" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CFileIO" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Reflaction" />
-      <item index="4" class="java.lang.String" itemvalue="Application.mysql" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Reflaction" />
+      <item index="3" class="java.lang.String" itemvalue="Application.mysql" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.mysql" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Reflaction" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BFileIO" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ObjectIO" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CFileIO" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.mysql" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Reflaction" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BFileIO" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ObjectIO" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -643,6 +675,11 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
     </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -663,7 +700,11 @@
       <workItem from="1518609585966" duration="76000" />
       <workItem from="1518624450812" duration="3058000" />
       <workItem from="1518656795404" duration="14063000" />
-      <workItem from="1518782339898" duration="5286000" />
+      <workItem from="1518782339898" duration="5861000" />
+      <workItem from="1520519333342" duration="1494000" />
+      <workItem from="1520521752836" duration="120000" />
+      <workItem from="1520523375340" duration="536000" />
+      <workItem from="1523932512790" duration="2903000" />
     </task>
     <task id="LOCAL-00001" summary="添加对BFileIO的操作">
       <created>1518531266101</created>
@@ -686,11 +727,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518695570496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="detial note in 'mysql.java'">
+      <created>1518789357673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518789357673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37051000" />
+    <option name="totallyTimeSpent" value="42679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -702,20 +750,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32831326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27272728" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31389365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33447686" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31389365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.48644578" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4562607" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23216996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -819,7 +868,8 @@
     <MESSAGE value="添加对BFileIO的操作" />
     <MESSAGE value="添加对java反射reflect类的操作" />
     <MESSAGE value="添加项目框架maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加项目框架maven" />
+    <MESSAGE value="detial note in 'mysql.java'" />
+    <option name="LAST_COMMIT_MESSAGE" value="detial note in 'mysql.java'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,6 +878,82 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
+            <marker date="1518789085593" expanded="true" signature="880:901" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="1345:1371" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1383" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1345:1384" ph="delete from " />
+            <marker date="1518789085593" expanded="true" signature="1469:1503" ph="select * fro... student" />
+            <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
+            <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -999,7 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,8 +1138,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/jdbc/mysql/mysql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1518789085593" expanded="true" signature="880:893" ph="select * fro... " />
@@ -1026,6 +1151,21 @@
             <marker date="1518789085593" expanded="true" signature="2105:2141" ph="insert into student... " />
             <marker date="1518789085593" expanded="true" signature="2176:2212" ph="insert into student... " />
             <marker date="1518789085593" expanded="true" signature="2247:2283" ph="insert into student... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wang/Thread/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#383#805#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#837#1473#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1501#1930#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
           </folding>
         </state>
       </provider>
